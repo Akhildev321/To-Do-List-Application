@@ -1,0 +1,30 @@
+# To-Do List App (Now You're Adulting)
+
+Welcome to the most dangerously productive tool that runs in your terminal. 
+This To-Do List app helps you remember things "before your boss does!". 
+Add tasks, check tasks, remove tasks — all while pretending you’re hacking The Matrix.
+
+##  Features
+-  Add tasks like "Buy milk" or "Build billion-dollar startup"
+-  View all your bad decisions (a.k.a. tasks)
+-  Remove the ones you’re never going to do anyway
+-  Your list is saved automatically (because we believe in second chances)
+
+##  How to Launch Your Empire
+ Save the script as `todo.py`
+ Open your terminal (or VS Code)
+ start typing
+
+## Sample Output
+To-Do List Menu:
+1. View tasks
+2. Add task
+3. Remove task
+4. Exit
+Enter your choice (1-4): 2
+Enter a new task: Complete Python project
+Task 'Complete Python project' added.
+
+To-Do List Menu:
+1. View tasks
+.......
